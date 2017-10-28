@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Richienb/Gary-Bendall/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Richienb/Gary-Bendall/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Welcome To Gary Bendall's Website
+___
+### Youtube:
+[View My Youtube Channel Today!](https://www.youtube.com/channel/UC5u0v-xwyFK6d6KoBe8o0Bw) | [Subscribe To My Youtube Channel](https://www.youtube.com/channel/UC5u0v-xwyFK6d6KoBe8o0Bw?sub_confirmation=1) | [View My Latest Video](https://goo.gl/UWhtbK) | [View My Most Popular Video](https://goo.gl/aVpnjo)
+___
+### Games I Play:
+- [Y8 Games](https://www.y8.com)
+- [Friv](http://www.friv.com/) And [Friv 2017](http://www.friv-2017.com)
+- [Minecraft](https://minecraft.net)
+- [Terraria](https://terraria.org)
+- [Plants Vs Zombies](https://play.google.com/store/apps/details?id=com.ea.game.pvzfree_row) And [Plants Vs Zombies 2](https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row)
+- [Roblox](https://www.roblox.com)
+- [Sky Force](https://play.google.com/store/apps/details?id=pl.idreams.skyforcehd)
+- [Pacman 256](https://play.google.com/store/apps/details?id=eu.bandainamcoent.pacman256)
+ - [Crossy Road](https://play.google.com/store/apps/details?id=com.yodo1.crossyroad)
+ ___
+ > Copyright (C) Gary Bendall 2017
