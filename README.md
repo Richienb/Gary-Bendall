@@ -1,8 +1,8 @@
 # Welcome To Gary Bendall's Website
-___
+
 ### Youtube:
 [View My Youtube Channel Today!](https://www.youtube.com/channel/UC5u0v-xwyFK6d6KoBe8o0Bw) | [Subscribe To My Youtube Channel](https://www.youtube.com/channel/UC5u0v-xwyFK6d6KoBe8o0Bw?sub_confirmation=1) | [View My Latest Video](https://goo.gl/UWhtbK) | [View My Most Popular Video](https://goo.gl/aVpnjo)
-___
+
 ### Games I Play:
 - [Y8 Games](https://www.y8.com)
 - [Friv](http://www.friv.com/) And [Friv 2017](http://www.friv-2017.com)
@@ -13,5 +13,5 @@ ___
 - [Sky Force](https://play.google.com/store/apps/details?id=pl.idreams.skyforcehd)
 - [Pacman 256](https://play.google.com/store/apps/details?id=eu.bandainamcoent.pacman256)
  - [Crossy Road](https://play.google.com/store/apps/details?id=com.yodo1.crossyroad)
- ___
+ 
  > Copyright (C) Gary Bendall 2017
