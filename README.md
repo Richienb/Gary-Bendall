@@ -18,6 +18,6 @@
  
  ### My Android App
  
- [Download My App](https://github.com/Richienb/Gary-Bendall/releases/download/v1.1.0/Gary.Bendall.s.Website.Android.App.apk) | [Demo My App](https://appetize.io/embed/3x9yc6mu167gvq9c1442v2b6h4?device=nexus5&scale=50&autoplay=true&orientation=portrait&deviceColor=black&screenOnly=true&osVersion=4.4)
+ [Download My App](https://github.com/Richienb/Gary-Bendall/releases/download/v1.1.0/Gary.Bendall.s.Website.Android.App.apk) | [Demo My App](https://www.gary-bendall.ga/Android-App-Demo)
  
  > Copyright (C) Gary Bendall 2017
