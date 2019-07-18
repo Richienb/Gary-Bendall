@@ -18,8 +18,8 @@
     <meta name="msapplication-config" content="images/icons/browserconfig.xml">
     <meta name="theme-color" content="#ffeb3b">
 
-    <title>Gary Bendall's Website</title>
-    <meta name="description" content="Welcome to Gary Bendall's Website.">
+    <title>Servers I play</title>
+    <meta name="description" content="These are the Minecraft servers I play on.">
 
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/material-components-web/3.0.0/material-components-web.min.css"
@@ -51,8 +51,8 @@
             min-height: calc(100vh - 7rem);
         }
 
-        body .main-content .mdc-list-item__text {
-            color: var(--mdc-theme-on-primary, #6200ee);
+        body .main-content .games__minecraft-play {
+            border-radius: 18px;
         }
 
         body .main-content img {
@@ -158,10 +158,6 @@
             background-color: #212121;
         }
 
-        body.setting--dark .main-content .mdc-list-item__text {
-            color: white;
-        }
-
         body.setting--dark .mdc-select__selected-text,
         body.setting--dark .mdc-text-field__input,
         body.setting--dark .mdc-floating-label,
@@ -250,6 +246,7 @@
 </head>
 
 <body>
+
     <div class="ribbon mdc-elevation--z4"></div>
     <main class="main-content mdc-typography mdc-elevation--z8">
         <script async src="https://cdn.carbonads.com/carbon.js?serve=CK7I6K3E&amp;placement=wwwrichie-bendallml"
@@ -262,32 +259,17 @@
                     d="M11 7l-3.2 9h1.9l.7-2h3.2l.7 2h1.9L13 7h-2zm-.15 5.65L12 9l1.15 3.65h-2.3zM20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69zm-2 5.79V18h-3.52L12 20.48 9.52 18H6v-3.52L3.52 12 6 9.52V6h3.52L12 3.52 14.48 6H18v3.52L20.48 12 18 14.48z" />
             </svg>
         </button>
-        <h1 class="mdc-typography--headline2">Gary Bendall's Website</h1>
-        <p class="mdc-typography--body1">Welcome to my website.</p>
-        <a href="https://www.youtube.com/channel/UC5u0v-xwyFK6d6KoBe8o0Bw" target="_blank" rel="noopener"
-            class="mdc-button mdc-button--raised" data-mdc-auto-init="MDCRipple">
-            <svg class="mdc-button__icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+        <h1 class="mdc-typography--headline2">Servers I play</h1>
+        <a class="mdc-button mdc-button--unelevated games__minecraft-play" href="https://www.minecraft.net"
+            target="_blank" rel="noopener" data-mdc-auto-init="MDCRipple"><svg class="mdc-button__icon"
+                xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                 <path
-                    d="M10,15L15.19,12L10,9V15M21.56,7.17C21.69,7.64 21.78,8.27 21.84,9.07C21.91,9.87 21.94,10.56 21.94,11.16L22,12C22,14.19 21.84,15.8 21.56,16.83C21.31,17.73 20.73,18.31 19.83,18.56C19.36,18.69 18.5,18.78 17.18,18.84C15.88,18.91 14.69,18.94 13.59,18.94L12,19C7.81,19 5.2,18.84 4.17,18.56C3.27,18.31 2.69,17.73 2.44,16.83C2.31,16.36 2.22,15.73 2.16,14.93C2.09,14.13 2.06,13.44 2.06,12.84L2,12C2,9.81 2.16,8.2 2.44,7.17C2.69,6.27 3.27,5.69 4.17,5.44C4.64,5.31 5.5,5.22 6.82,5.16C8.12,5.09 9.31,5.06 10.41,5.06L12,5C16.19,5 18.8,5.16 19.83,5.44C20.73,5.69 21.31,6.27 21.56,7.17Z" />
-            </svg><span class="mdc-button__label">My YouTube Channel</span></a>
-        <h2 class="mdc-typography--headline3">The games I play</h2>
-        <ul class="mdc-list">
-            <a class="mdc-list-item" href="games" target="_blank" rel="noopener"
-                data-mdc-auto-init="MDCRipple">
-                <img class="mdc-list-item__graphic" src="images/minecraft.png" alt="Minecraft">
-                <span class="mdc-list-item__text">Minecraft</span>
-            </a>
-            <a class="mdc-list-item" href="https://www.y8.com" target="_blank" rel="noopener"
-                data-mdc-auto-init="MDCRipple">
-                <img class="mdc-list-item__graphic" src="images/y8.png" alt="Y8 Games">
-                <span class="mdc-list-item__text">Y8 Games</span>
-            </a>
-            <a class="mdc-list-item" href="https://www.roblox.com" target="_blank" rel="noopener"
-                data-mdc-auto-init="MDCRipple">
-                <img class="mdc-list-item__graphic" src="images/roblox.png" alt="Roblox">
-                <span class="mdc-list-item__text">Roblox</span>
-            </a>
-        </ul>
+                    d="M4,2H20A2,2 0 0,1 22,4V20A2,2 0 0,1 20,22H4A2,2 0 0,1 2,20V4A2,2 0 0,1 4,2M6,6V10H10V12H8V18H10V16H14V18H16V12H14V10H18V6H14V10H10V6H6Z" />
+            </svg><span class="mdc-button__label">Play Minecraft</span></a>
+        <h2 class="mdc-typography--headline3">Hypixel</h2>
+        <h2 class="mdc-typography--headline3">Mineplex</h2>
+        <h2 class="mdc-typography--headline3">Cosmic MC</h2>
+        <h2 class="mdc-typography--headline3">Saico Sky</h2>
     </main>
     <!--[if lt IE 9]> <script async src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js" integrity="sha256-1eSvllkLdrfxD6G8RGF9h+mQuD93Af5+GdPBMNc7uMQ=" crossorigin="anonymous"></script> <![endif]-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/material-components-web/3.0.0/material-components-web.min.js"

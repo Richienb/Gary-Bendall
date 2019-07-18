@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/linux,macos,windows
 # Edit at https://www.gitignore.io/?templates=linux,macos,windows
 
@@ -48,6 +47,7 @@ Temporary Items
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
+Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
 
